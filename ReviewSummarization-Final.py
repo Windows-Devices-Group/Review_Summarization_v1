@@ -19,7 +19,6 @@ from langchain.prompts import PromptTemplate
 from langchain.chains.question_answering import load_qa_chain
 from langchain_core.messages import HumanMessage
 from openai import AzureOpenAI
-import gradio as gr
 import streamlit as st
 from azure.core.credentials import AzureKeyCredential
 from langchain.text_splitter import RecursiveCharacterTextSplitter
