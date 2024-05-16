@@ -185,7 +185,10 @@ start_phrase_verbatim = """
     11. Round off all the decimal values to 1 for Net Sentiment and Aspect Sentiment
     12. User Question will always be retriving certain rows from distinct Sentence column based on the certain aspect, devivefamilyname or other filter.
     13. You have to write a SQL query to retrive certain rows from distict sentence column.
-    
+
+
+    IMPORTANT note to consider: If the aspect is "All" aspect. It means user don't want to apply filter on aspects. don't apply where condition on Aspect column. Apply Where condition only on DeviceFamilyName column.
+    IMPORTANT note to consider : If the Geography is "ALL" Geography. It means user don't want to apply filter on Geography.  don't apply where condition on Geography column. Apply Where condition only on DeviceFamilyName column.
     User Question :
     
     """
