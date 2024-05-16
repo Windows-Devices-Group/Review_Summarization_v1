@@ -173,7 +173,8 @@ start_phrase_verbatim = """
     4. Aspect Sentiment of any product is calculated by sum of sentiment score of that aspect divided by sum of ReviewCount of that aspect
     5. Net Sentiment and Aspect sentiment should be in Percentage
     6. Always use 'LIKE' operator whenever they mention about any device or Aspects. 
-        IMPORTANT : And if the aspect is "All" aspect don't apply where condition on Aspect column. Apply Where condition on DeviceFamilyName column.
+        IMPORTANT : If the aspect is "All" aspect. It means user don't want to apply filter on aspects. don't apply where condition on Aspect column. Apply Where condition only on DeviceFamilyName column.
+        IMPORTANT : If the Geography is "ALL" Geography. It means user don't want to apply filter on Geography.  don't apply where condition on Geography column. Apply Where condition only on DeviceFamilyName column.
         Example : Aspect LIKE %gaming% and DeviceFamilyName LIKE %Surface Pro 9%
     7. If user query is regarding review count of a device, it should be sum(ReviewCount) and if it is regarding sentiment score, it should be sum of SentimentScore
     8. Make sure to Give the result as the query so that it can be used on Microsoft SQL server SSMS
