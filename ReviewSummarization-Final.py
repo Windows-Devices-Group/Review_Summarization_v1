@@ -215,5 +215,4 @@ if device_name:
                 summary = query_to_embedding_summarize("Summarize the reviews of "+  device_name + "for " + selected_aspect + " Aspect",a)
                 st.subheader("Summary")
                 st.write(summary)
-                show_data = st.form_submit_button('Show Data')
 
