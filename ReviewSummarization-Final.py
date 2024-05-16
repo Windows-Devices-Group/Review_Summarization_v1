@@ -200,8 +200,8 @@ device_name = st.text_input("", key="device_name")
 geo_names = ['All', 'BR', 'MX', 'US', 'US', 'CA', 'IN', 'FR', 'DE', 'JP', 'AU', 'CN']
 if device_name:
         with st.form(key='my_form'):
-            selected_geo = st.selectbox('Select an aspect to see consumer reviews:', geo_names)
-            selected_aspect = st.selectbox('Select an aspect to see consumer reviews:', aspect_names)
+            selected_geo = st.selectbox('Select an aspect to see summarized consumer reviews:', geo_names)
+            selected_aspect = st.selectbox('Select a geography from where you need summarized consumer reviews:', aspect_names)
             submitted = st.form_submit_button('Submit')
             if submitted:
                 data_verbatims = sqldf(query_verbatims("Give me reviews of " + device_name + "for " + selected_aspect + "Aspect" + "from " + selected_geo + " Geography"))
