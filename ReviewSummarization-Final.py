@@ -216,7 +216,4 @@ if device_name:
                 st.subheader("Summary")
                 st.write(summary)
                 show_data = st.form_submit_button('Show Data')
-                if show_data:
-                    st.subheader("Data Verbatims")
-                    st.dataframe(data_verbatims)
 
