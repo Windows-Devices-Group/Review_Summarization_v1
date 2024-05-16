@@ -1,0 +1,40 @@
+	Sentence
+0	wish it have a USB c port.
+1	"""whether its connect external drive, peripheral or external display, the laptop provide the versatility I require for my daily task."""
+2	use the USB c port.
+3	"""Connectivity option be abundant, with a variety of port that cater to my diverse need."""
+4	"""Breaking bad, buy, screen ha issue in dual screen mode: thru hdmi, it ha blurred spot in many area and doesn t react well always stop in the middle of my typing."""
+5	Very fast and easy to operate need more usb port.
+6	"""In addition to the i7 processer, the picture of the side of the laptop indicated, there would be 3 usb port plus an hdmi port."""
+7	"""There are only 2, usb port, of course, that can be overcome with a usb multi port but disappointing."""
+8	"""On one side, I probably got the 1 out 1000 damaged product, but after all of the set up and getting everything loaded, the way I want it, I will just use usb webcam but disappointed."""
+9	"""No dvd bluray drive it only ha 2 usb a port, so I had to get a usb extender so that I can use my mouse and external bluray drive a well a any other usb device."""
+10	be include provide versatility for various peripheral and device.
+11	it also have 1 usbc port which I have not use yet.
+12	"""another minus be that it do not have a port of Ethernet and even if I use ethernet to usb cable, it appear to still use only WiFi."""
+13	it only have 2 USBA port so I have to get a usb extender so that I can use my mouse and external Bluray drive as well as any other usb device.
+14	"""It also ha 1, usb c port, which I have not used."""
+15	"""Additionally, an hdmi port, an sd card reader and a headphone microphone combo jack are included, providing versatility for various peripheral and device battery life is decent, offering several hour of use on a single charge, depending on the workload while it may not provide all day battery life."""
+16	"""It offer multiple usb port, including a usb type c port for fast data transfer and external display connectivity."""
+17	it offer multiple usb port.
+18	Yet the hdmi port can connect to an hd tv.
+19	The sd card slot is handy for transferring photo and video from camera.
+20	the HDMI port can connect to an HD tv.
+21	the sd card slot be handy for transfer photo and video from camera.
+22	"""additionally, an HDMI port, an sd card reader and a headphonemicrophone combo jack."""
+23	include a usb TypeC port for fast data transfer and external display connectivity.
+24	"""have a good speed, Plenty of port- just what I need for work on the road."""
+25	"""excellent, terrific display, sensitive touch pad and keyboard, More port than you would expect."""
+26	"""Really enjoying my new laptop processor ha a good speed plenty of port, just what I needed for working on the road."""
+27	I returned the laptop after paying my it person to try to test and fix the hdmi and usb c port.
+28	I also use two additional monitor plugged into the usb c port.
+29	Even the regular usb port wasn t working well.
+30	"""Work great but wish it had, and additional usb port."""
+31	Should have a ethernet port but otherwise great got it a an open box for a great deal.
+32	None of the port to this laptop worked.
+33	"""a combination of performance, storage and a userfriendly interface."""
+34	"""I hear I. well, if you intend to downgrade to Windows 10, as you should do yourself the favor and download the appropriate driver first and save they on your usb boot drive."""
+35	"""use a usb mouse temporarily, as try to install the touchpad driver directly."""
+36	I have 2 of these laptop and I end up buy a usb internet adapter to resolve the issue.
+37	Wish it have more usb port- only 2.
+38	be an open box system that have issue connect with usb Cadapter and give error message about bad SSD.
