@@ -45,12 +45,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import os
 import time
-from PIL import Image
-import base64
-import spacy
 from pandasql import sqldf
 import numpy as np
-import matplotlib.colors as mcolors
 
 os.environ['KMP_DUPLICATE_LIB_OK'] = 'TRUE'
 
